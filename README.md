@@ -48,3 +48,7 @@ You can launch the app but there are issue, try it out :
 ```python 
 python app.py
 ```
+
+# For a quick demo
+
+Visit the Devpost: https://devpost.com/software/doxtral#updates
